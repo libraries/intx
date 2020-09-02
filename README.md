@@ -42,4 +42,3 @@ Licensed under the [Apache License, Version 2.0].
 [standard readme]: https://github.com/RichardLitt/standard-readme
 
 [readme style standard badge]: https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square
-

@@ -790,8 +790,7 @@ template <typename T>
 #if __cpp_exceptions
     throw T{what};
 #else
-    std::fputs(what, stderr);
-    std::abort();
+    exit(1);
 #endif
 }
 
